@@ -1,0 +1,27 @@
+define([], function () {
+  return {
+    "Pane1Description": "Add the names of the project fields here",
+    "GroupFieldName": "Internal Field Names",
+    "Field1Label": "Field 1",
+    "Field2Label": "Field 2",
+    "Field3Label": "Field 3",
+    "Field4Label": "Field 4",
+    "Field5Label": "Field 5",
+    "Field6Label": "Field 6",
+    "Field7Label": "Field 7",
+    "Field8Label": "Field 8",
+    "Field9Label": "Field 9",
+    "Field10Label": "Field 10",
+    "GroupColumnHeading": "Field Display Names",
+    "Column1HeadingLabel": "Field Display 1",
+    "Column2HeadingLabel": "Field Display 2",
+    "Column3HeadingLabel": "Field Display 3",
+    "Column4HeadingLabel": "Field Display 4",
+    "Column5HeadingLabel": "Field Display 5",
+    "Column6HeadingLabel": "Field Display 6",
+    "Column7HeadingLabel": "Field Display 7",
+    "Column8HeadingLabel": "Field Display 8",
+    "Column9HeadingLabel": "Field Display 9",
+    "Column10HeadingLabel": "Field Display 10",
+  }
+});

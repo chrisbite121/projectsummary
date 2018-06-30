@@ -1,0 +1,13 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "projectsummary-client-side-solution",
+    "id": "ab678031-eda3-4cf8-b5dd-f1bdb6e0e569",
+    "version": "1.1.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/projectsummary.sppkg"
+  }
+}
